@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoAppK</string>
+    <string name="hint_add_a_new_todo">Add a new todo</string>
+    <string-array name="categories">
+        <item>Coding</item>
+        <item>Home</item>
+        <item>Family</item>
+        <item>Work</item>
+    </string-array>
+</resources>
